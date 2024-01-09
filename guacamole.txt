@@ -1,13 +1,14 @@
 This is my recipe for Guacamole. 
 Ingredients: 
 -Onions
--Avacado
--cilantro
+-Avocado
+-Cilantro
 -Salt 
 -Lime
+-Garlic
 
 Instructions:
--Mash avacados
+-Mash avocados
 -chop onions and cilantro
 -squeeze limes
 -mix together 
